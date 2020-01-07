@@ -1,0 +1,26 @@
+*{
+  width: 100%;
+}
+body{
+  height: 100vh;
+  background-color: rgba(212, 240, 252, 0.26);
+}
+footer{
+  height: 78px;
+  background-color:black;
+  margin-bottom: 0;
+  color: white;
+  top:90%;
+  position: absolute;
+}
+.navbar{
+  height: 80px;
+  color: white;
+  background-color: rgb(43, 1, 1);
+  text-transform:capitalize;
+  padding-top: 1.5%;
+  border:none;
+  border-radius: 0;
+  font-size: 200%;
+  margin-top:0;
+}
