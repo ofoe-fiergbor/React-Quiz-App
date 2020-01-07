@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import HomeForm from './HomeForm'
+import Quiz from './Quiz'
 
 export class MainDisplay extends Component {
     render() {
@@ -9,6 +10,7 @@ export class MainDisplay extends Component {
                     <div className="col-md-4"></div>
                     <div className="col-md-4">
                         <HomeForm/>
+                        <Quiz/>
                     </div>
                     <div className="col-md-4"></div>
                 </div>
