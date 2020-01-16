@@ -24,3 +24,71 @@ footer{
   font-size: 200%;
   margin-top:0;
 }
+
+.option1, .option2, .option3, .option4{
+  background-color: rgba(255, 0, 0, 0.534);
+  color: black;
+  height: 250px;
+  width: 160px;
+  border-radius: 8px;
+  transition:all 0.15s ease-in;
+  box-shadow: 2px 2px rgb(87, 80, 80);
+
+}
+.option1{
+  margin-left: 10px;
+}
+.option2{
+  margin-left: 2%;
+}
+/* .option1, .option2{
+  transform: rotate(-1deg);
+  -webkit-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+
+} */
+.option1:hover,
+.option2:hover,
+.option3:hover,
+.option4:hover{
+  background-color: rgba(255, 0, 0, 0.24);
+
+}
+.option1:active,
+.option2:active,
+.option3:active,
+.option4:active{
+  background-color: rgba(255, 0, 0, 0.24);
+
+}
+.option1:focus,
+.option2:focus,
+.option3:focus,
+.option4:focus{
+  background-color: rgba(255, 0, 0, 0.24);
+
+}
+
+.option2, .option3{
+  margin-top: 50px;
+}
+.option3{
+  margin-left: 24px;
+  transform: rotate(5deg);
+  -webkit-transform: rotate(5deg);
+  -ms-transform: rotate(5deg);
+}
+.option4{
+  margin-left: 12px;
+  transform: rotate(5deg);
+  -webkit-transform: rotate(-1deg);
+  -ms-transform: rotate(-1deg);
+}
+h4{
+  font-weight: bold;
+}
+.btnc{
+  width: 80px;
+  margin-top: 20px;
+  font-weight: bold;
+}

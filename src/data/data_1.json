@@ -1,0 +1,602 @@
+[
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The seed drill was invented by which British inventor?",
+        "correct_answer": "Jethro Tull",
+        "incorrect_answers": [
+            "Charles Babbage",
+            "Isaac Newton",
+            "J.J Thomson"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What&#039;s the best selling video game to date?",
+        "correct_answer": "Tetris",
+        "incorrect_answers": [
+            "Wii Sports",
+            "Minecraft",
+            "Super Mario Bros"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+        "correct_answer": "Johnny Cash",
+        "incorrect_answers": [
+            "Bob Dylan",
+            "Willie Nelson",
+            "Kris Kristofferson"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+        "correct_answer": "Sasha",
+        "incorrect_answers": [
+            "Betty",
+            "Anna",
+            "Diana"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the largest organ of the human body?",
+        "correct_answer": "Skin",
+        "incorrect_answers": [
+            "Heart",
+            "large Intestine",
+            "Liver"
+        ]
+    },
+    {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is the star of the AMC series Breaking Bad?",
+        "correct_answer": "Walter White",
+        "incorrect_answers": [
+            "Saul Goodman",
+            "Jesse Pinkman",
+            "Skyler White"
+        ]
+    },
+    {
+        "category": "Mythology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who was the Roman god of fire?",
+        "correct_answer": "Vulcan",
+        "incorrect_answers": [
+            "Apollo",
+            "Jupiter",
+            "Mercury"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who made Garry&#039;s Mod?",
+        "correct_answer": "Garry Newman",
+        "incorrect_answers": [
+            "Randy Newman",
+            "Facepunch Studios",
+            "Gabe Newell"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What colour is the circle on the Japanese flag?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "White",
+            "Yellow",
+            "Black"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What geometric shape is generally used for stop signs?",
+        "correct_answer": "Octagon",
+        "incorrect_answers": [
+            "Hexagon",
+            "Circle",
+            "Triangle"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of these of NOT an official game in Nintendo&#039;s Super Smash Bros. series?",
+        "correct_answer": "Super Smash Bros. Crusade",
+        "incorrect_answers": [
+            "Super Smash Bros. Melee",
+            "Super Smash Bros. Brawl",
+            "Super Smash Bros. for Nintendo 3DS and Wii U"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+        "correct_answer": "Kiefer Sutherland",
+        "incorrect_answers": [
+            "David Hayter",
+            "Norman Reedus",
+            "Hideo Kojima"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the domain name for the country Tuvalu?",
+        "correct_answer": ".tv",
+        "incorrect_answers": [
+            ".tu",
+            ".tt",
+            ".tl"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
+        "correct_answer": "Mark Hamill",
+        "incorrect_answers": [
+            "Jason Dohring",
+            "Jesse McCartney",
+            "Haley Joel Osment"
+        ]
+    },
+    {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In &quot;Inuyasha&quot;, what are the heros are looking to collect?",
+        "correct_answer": "Jewel Shards",
+        "incorrect_answers": [
+            "Dragon Balls",
+            "Rave Stones",
+            "Sacred Stones"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the title of song on the main menu in Halo?",
+        "correct_answer": "Halo",
+        "incorrect_answers": [
+            "Opening Suite",
+            "Shadows",
+            "Suite Autumn"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+        "correct_answer": "The Zin Empire",
+        "incorrect_answers": [
+            "The Brotherhood",
+            "The Ronin",
+            "The Sons of Samedi"
+        ]
+    },
+    {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which one of these Manga titles was not created by Urasawa Naoki?",
+        "correct_answer": "My Father&#039;s Journal",
+        "incorrect_answers": [
+            "Billy Bat",
+            "20th Century Boys",
+            "Monster"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Josh Mansour is part of what NRL team?",
+        "correct_answer": "Penrith Panthers",
+        "incorrect_answers": [
+            "Melbourne Storm",
+            "Sydney Roosters",
+            "North Queensland Cowboys"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which musical artist was NOT featured as playable avatars in the game &quot;DJ Hero&quot;?",
+        "correct_answer": "Dr. Dre",
+        "incorrect_answers": [
+            "DJ Shadow",
+            "Daft Punk",
+            "Grandmaster Flash"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the National Pokedex what number is Porygon-Z?",
+        "correct_answer": "474",
+        "incorrect_answers": [
+            "376",
+            "432",
+            "589"
+        ]
+    },
+    {
+        "category": "History",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first sport to have been played on the moon?",
+        "correct_answer": "Golf",
+        "incorrect_answers": [
+            "Football",
+            "Tennis",
+            "Soccer"
+        ]
+    },
+    {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "In Supernatural, what&#039;s is Sam&#039;s brothers name?",
+        "correct_answer": "Dean",
+        "incorrect_answers": [
+            "Dave",
+            "Steve",
+            "Mike"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+        "correct_answer": "?:",
+        "incorrect_answers": [
+            "??",
+            "if then",
+            "?"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What was the first game ever released that ran on the Source engine?",
+        "correct_answer": "Counter-Strike: Source",
+        "incorrect_answers": [
+            "Half-Life 2",
+            "Garry&#039;s Mod",
+            "Team Fortress 2"
+        ]
+    },
+    {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Gwyneth Paltrow has a daughter named...?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Lily",
+            "French",
+            "Dakota"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which Pokemon generation did the fan-named &quot;Masuda Method&quot; first appear in? ",
+        "correct_answer": "Diamond\/Pearl",
+        "incorrect_answers": [
+            "Ruby\/Sapphire",
+            "Black\/White",
+            "X\/Y"
+        ]
+    },
+    {
+        "category": "Entertainment: Television",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the the first episode of Doctor Who to air in 1963?",
+        "correct_answer": "An Unearthly Child",
+        "incorrect_answers": [
+            "The Daleks",
+            "The Aztecs",
+            "The Edge of Destruction"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+        "correct_answer": "Ma Long (China)",
+        "incorrect_answers": [
+            "Zhang Jike (China)",
+            "Jun Mizutani (Japan)",
+            "Vladimir Samsonov (Belarus)"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+        "correct_answer": "FM-7",
+        "incorrect_answers": [
+            "PC-9801",
+            "Xmillennium ",
+            "MSX"
+        ]
+    },
+    {
+        "category": "Geography",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which country is the home of the largest Japanese population outside of Japan?",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+            "China",
+            "Russia",
+            "The United States"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In what film was the Michael Jackson song &quot;Will You Be There&quot; featured?",
+        "correct_answer": "Free Willy",
+        "incorrect_answers": [
+            "Sleepless in Seattle",
+            "Men in Black",
+            "Bad Boys"
+        ]
+    },
+    {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+        "correct_answer": "Momoko Koigakubo",
+        "incorrect_answers": [
+            "Hajime Aoyama",
+            "Satsuki Miyanoshita",
+            "Mio Itai"
+        ]
+    },
+    {
+        "category": "Entertainment: Cartoon & Animations",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
+        "correct_answer": "Max Tennyson (Ben 10)",
+        "incorrect_answers": [
+            "Carl Wheezer (Jimmy Neutron)",
+            "Yakko Warner (Animaniacs)",
+            "The Mask (The Mask, TV Series)"
+        ]
+    },
+    {
+        "category": "Entertainment: Cartoon & Animations",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who created &quot;RWBY&quot;?",
+        "correct_answer": "Monty Oum",
+        "incorrect_answers": [
+            "Miles Luna",
+            "Kerry Shawcross",
+            "Shane Newville"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+        "correct_answer": "Lamentation",
+        "incorrect_answers": [
+            "Galvanized Atomic Lead Insertion Liquidator",
+            "Gabig",
+            "Predictive Death Wish"
+        ]
+    },
+    {
+        "category": "Entertainment: Japanese Anime & Manga",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?",
+        "correct_answer": "Restoration",
+        "incorrect_answers": [
+            "Emission",
+            "Transmutation",
+            "Specialization"
+        ]
+    },
+    {
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Before 2016, in which other year did Donald Trump run for President?",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+            "2012",
+            "1988",
+            "2008"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "correct_answer": "Pancreatic",
+        "incorrect_answers": [
+            "Bone",
+            "Liver",
+            "Stomach"
+        ]
+    },
+    {
+        "category": "Politics",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Former United States President Bill Clinton famously played which instrument?",
+        "correct_answer": "Saxophone",
+        "incorrect_answers": [
+            "Baritone horn",
+            "Piano",
+            "Violin"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+        "correct_answer": "Nathan Steele",
+        "incorrect_answers": [
+            "Nate Siemens",
+            "Nick Stamos",
+            "Nolan Stuhlinger"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "From which album is the Gorillaz song, &quot;On Melancholy Hill&quot; featured in?",
+        "correct_answer": "Plastic Beach",
+        "incorrect_answers": [
+            "Demon Days",
+            "Humanz",
+            "The Fall"
+        ]
+    },
+    {
+        "category": "Entertainment: Music",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
+        "correct_answer": "Viktor Tsoi",
+        "incorrect_answers": [
+            "Jimi Hendrix",
+            "Brian Jones",
+            "Vladimir Vysotsky"
+        ]
+    },
+    {
+        "category": "Entertainment: Board Games",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+        "correct_answer": "Lightning Dragon",
+        "incorrect_answers": [
+            "Revenant",
+            "Beast of Burden",
+            "Dirtcowl Wurm"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The Quadrangularis Reversum is best described as which of the following?",
+        "correct_answer": "A percussion instrument",
+        "incorrect_answers": [
+            "A building in Oxford University",
+            "A chess move",
+            "A geometric theorem"
+        ]
+    },
+    {
+        "category": "Entertainment: Video Games",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What are tiny Thwomps called in Super Mario World?",
+        "correct_answer": "Thwimps",
+        "incorrect_answers": [
+            "Little Thwomp",
+            "Mini Thwomp",
+            "Tiny Tims"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which African American is in part responsible for integrating  Major League baseball?",
+        "correct_answer": "Jackie Robinson",
+        "incorrect_answers": [
+            "Curt Flood",
+            "Roy Campanella",
+            "Satchell Paige"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+        "correct_answer": "13",
+        "incorrect_answers": [
+            "11",
+            "20",
+            "22"
+        ]
+    },
+    {
+        "category": "Sports",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of Manchester United&#039;s home stadium?",
+        "correct_answer": "Old Trafford",
+        "incorrect_answers": [
+            "Anfield",
+            "City of Manchester Stadium",
+            "St James Park"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "6",
+            "8",
+            "12"
+        ]
+    }
+]
