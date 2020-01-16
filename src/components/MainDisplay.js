@@ -12,7 +12,7 @@ export class MainDisplay extends Component {
             userAnswer: null,
             answers: [],
             total: 0,
-            question: ''
+            question: '',
         }
     }
 
@@ -36,7 +36,8 @@ export class MainDisplay extends Component {
     }
 
     render() {
-        const { question, answers, n, total } = this.state
+        const { question, answers, optionId, n, total } = this.state
+         
 
         return (
             <div>
@@ -63,7 +64,7 @@ export class MainDisplay extends Component {
 
                 </div>
                 <div className='row text-center'>
-                    <button className='btnc'>Next</button>
+                    <button className='btnc'>Next >>></button>
                 </div>
 
             </div>
