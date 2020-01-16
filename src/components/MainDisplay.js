@@ -36,7 +36,7 @@ export class MainDisplay extends Component {
     }
 
     render() {
-        const { question, answers, optionId, n, total } = this.state
+        const { question, answers, n, total } = this.state
          
 
         return (
