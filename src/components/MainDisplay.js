@@ -26,24 +26,33 @@ export class MainDisplay extends Component {
                 ...QuizData[n].incorrect_answers,
                 QuizData[n].correct_answer
             ]
-
-
         })
     }
 
     componentDidMount = () => {
         this.loadQuize()
     }
-    handleNextQuestion = ()=>{
+    handleNextQuestion = () => {
         this.setState({
-            n: this.state.n +1
+            n: this.state.n + 1
         })
         console.log(this.state.n)
+    }
+    componentDidUpdate(prevProps, prevState) {
+        if (this.state.n !== prevState.n) {
+            this.setState(()=>{
+                return{
+                total: QuizData.length,
+                question: QuizData[this.state.n].question,
+                answers: [...QuizData[this.state.n].incorrect_answers, QuizData[this.state.n].correct_answer]
+                }
+            })
+        }
     }
 
     render() {
         const { question, answers, n, total } = this.state
-         
+
 
         return (
             <div>
@@ -59,14 +68,14 @@ export class MainDisplay extends Component {
                 <div className='row'>
                     <div className="col-md-3"></div>
                     <div className="col-md-6">
-                    {
-                        answers.map((answers, i) => (
-                            <Answers answer={answers} key = {i}/>
-                        ))
-                    }
+                        {
+                            answers.map((answers, i) => (
+                                <Answers answer={answers} key={i} />
+                            ))
+                        }
                     </div>
                     <div className="col-md-3"></div>
-                    
+
 
                 </div>
                 <div className='row text-center'>
