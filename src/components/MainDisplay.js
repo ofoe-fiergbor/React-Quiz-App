@@ -34,6 +34,12 @@ export class MainDisplay extends Component {
     componentDidMount = () => {
         this.loadQuize()
     }
+    handleNextQuestion = ()=>{
+        this.setState({
+            n: this.state.n +1
+        })
+        console.log(this.state.n)
+    }
 
     render() {
         const { question, answers, n, total } = this.state
@@ -64,7 +70,7 @@ export class MainDisplay extends Component {
 
                 </div>
                 <div className='row text-center'>
-                    <button className='btnc'>Next >>></button>
+                    <button className='btnc' onClick={this.handleNextQuestion}>Next >>></button>
                 </div>
 
             </div>
