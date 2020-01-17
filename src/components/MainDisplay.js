@@ -49,6 +49,11 @@ export class MainDisplay extends Component {
             })
         }
     }
+    checkAnswer=()=>{
+        this.setState({
+            userAnswer: this.state.answer
+        })
+    }
 
     render() {
         const { question, answers, n, total } = this.state
@@ -70,7 +75,7 @@ export class MainDisplay extends Component {
                     <div className="col-md-6">
                         {
                             answers.map((answers, i) => (
-                                <Answers answer={answers} key={i} />
+                                <Answers answer={answers} key={i} checkAnswer={()=>this.checkAnswer(answers)} />
                             ))
                         }
                     </div>
